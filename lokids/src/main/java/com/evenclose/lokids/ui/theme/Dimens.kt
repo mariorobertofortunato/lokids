@@ -22,4 +22,9 @@ object LokiIconSizes {
 object LokiSizes {
     val loader = 64.dp
     val borderWidth = 1.dp
+    val animatedBorderWidth = 2.dp
+}
+
+object LokiElevations {
+    val small = 4.dp
 }
