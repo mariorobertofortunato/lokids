@@ -49,11 +49,13 @@ dependencies {
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation(libs.androidx.runtime)
+    implementation(libs.play.services.ads.api)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.material.icons.extended)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.adaptive)
     implementation(platform(libs.compose.bom))
