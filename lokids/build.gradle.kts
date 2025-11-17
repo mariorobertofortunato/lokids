@@ -71,7 +71,7 @@ publishing {
             }
             groupId = "com.github.mariorobertofortunato"
             artifactId = "lokids"
-            version = "1.1.1"
+            version = "1.1.2"
         }
     }
 }
